@@ -1,4 +1,4 @@
-## Hello! I'm Wellington Barbosa ✨
+## Hello! I'm Wellington Barbosa 👋
  <div>
   <a href="https://github.com/wellingtoncarneirobarbosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellingtoncarneirobarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
