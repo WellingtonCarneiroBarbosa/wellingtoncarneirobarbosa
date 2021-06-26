@@ -5,9 +5,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtoncarneirobarbosa&layout=compact&langs_count=20&theme=blue-green&custom_title=My Most Used Languages (it's PHP)"/>
 <div>
 <div style="display: inline_block"><br>
-     <img align="center" alt="Wellington-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+     <img align="center" alt="Wellington-LARAVEL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
  
-   <img align="center" alt="WELLINGTON-VUE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="WELLINGTON-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  
    <img align="center" alt="WELLINGTON-VUE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
    <img align="center" alt="Wellington-PHP" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
