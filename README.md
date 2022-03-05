@@ -9,7 +9,7 @@
 <div style="display: inline_block"><br>
      <img align="center" alt="Wellington-LARAVEL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"> 
   <img align="center" alt="WELLINGTON-VUE-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-   <img align="center" alt="WELLINGTON-INERTIA-JS" height="35" width="35" src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4">
+   <img align="center" alt="WELLINGTON-INERTIA-JS" height="30" width="35" src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4">
     <img align="center" alt="WELLINGTON-BOOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> 
    <img align="center" alt="Wellington-PHP" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="WELLINGTON-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
