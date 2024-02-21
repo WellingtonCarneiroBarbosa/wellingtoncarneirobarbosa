@@ -29,7 +29,7 @@
         align="center"
         height="30"
         width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
       >
       <img
         align="center"
@@ -41,7 +41,7 @@
         align="center"
         height="30"
         width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       >
       <img
         align="center"
