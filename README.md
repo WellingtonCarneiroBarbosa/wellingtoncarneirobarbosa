@@ -5,7 +5,7 @@
         align="center"
         height="30"
         width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
       >
       <img
         align="center"
@@ -23,7 +23,7 @@
         align="center"
         height="30"
         width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
       >
       <img
         align="center"
