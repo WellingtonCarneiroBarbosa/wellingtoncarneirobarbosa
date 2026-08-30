@@ -45,7 +45,7 @@ My work sits where **engineering meets financial regulation**: I spend as much t
 
 **In 8 months of active operation:**
 
-- **~300k orders processed per month**, of which **80k–120k are approved transactions** (Aug 2026)
+- **~300k orders processed per month** (Aug 2026)
 - **120 active sellers** on the platform
 - **~$500/month total infrastructure cost** — a fully serverless AWS architecture handling the entire order flow at **under $2 per 1,000 orders processed**
 
