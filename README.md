@@ -63,18 +63,18 @@
 
 ##
 
-<div> 
-    <a 
-      href="https://www.t.me/owellcarneiro2"
+<div>
+     <a 
+      href="https://www.linkedin.com/in/wellingtoncarneirobarbosa"
       target="_blank"
     >
       <img
-        src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white"
+        src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         target="_blank"
       >
     </a>
     <a 
-      href="https://instagram.com/owellcarneiro"
+      href="https://instagram.com/wellfruitfy"
       target="_blank"
     >
       <img
@@ -83,20 +83,11 @@
       >
     </a>
     <a 
-      href="mailto:wellingtonbarbosa.dev@gmail.com"
+      href="mailto:wellington.barbosa@fruitfy.io"
       target="_blank"
     >
       <img
         src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-        target="_blank"
-      >
-    </a>
-    <a 
-      href="https://www.linkedin.com/in/wellingtoncarneirobarbosa"
-      target="_blank"
-    >
-      <img
-        src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         target="_blank"
       >
     </a>
